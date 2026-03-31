@@ -1,14 +1,29 @@
-# 📊 Data Analytics Internship Portfolio
+# 📊 T. Pallavi | Data Analytics Portfolio
 
-## 👩‍💻 About Me
-Hi, I’m **T. Pallavi**, a Data Analytics Intern at ApexPlanet Software Pvt. Ltd.  
-This portfolio showcases all the tasks completed during my 60-day internship, covering the complete data analytics lifecycle.
+🚀 This repository represents my complete journey through a 60-day Data Analytics Internship at ApexPlanet Software Pvt. Ltd., covering end-to-end data analysis, visualization, and storytelling using real-world datasets.
 
 ---
 
 ## 📊 Project Preview
 
-![Dashboard](https://github.com/PallaviTangala/Pallavi-Data-Analytics-Internship-Portfolio/blob/main/Dashboard.png)
+<img src="https://github.com/PallaviTangala/Pallavi-Data-Analytics-Internship-Portfolio/blob/main/Dashboard.png" width="800">
+
+---
+
+## 🌟 Featured Project
+
+### Netflix Data Analysis Dashboard (Power BI)
+- Built an interactive dashboard to analyze Netflix content  
+- Visualized KPIs, genres, trends, and country-wise distribution  
+- Implemented slicers for dynamic filtering and analysis  
+
+🔗 [View Dashboard Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task3)
+
+---
+
+## 👩‍💻 About Me
+Hi, I’m **T. Pallavi**, a Data Analytics Intern at ApexPlanet Software Pvt. Ltd.  
+This portfolio showcases all the tasks completed during my internship, highlighting my skills in data analysis, visualization, and storytelling.
 
 ---
 
@@ -41,7 +56,7 @@ During this internship, I worked on real-world datasets and developed practical 
 
 ### 🔹 Task 3: Interactive Dashboard (Power BI)
 - Built an interactive dashboard  
-- Visualized KPIs and business insights  
+- Visualized key performance indicators and insights  
 
 🔗 [View Project](https://github.com/PallaviTangala/Data-Analytics-Internship-Task3)
 
@@ -70,12 +85,12 @@ During this internship, I worked on real-world datasets and developed practical 
 ---
 
 ## 🎯 Conclusion
-This internship helped me gain hands-on experience in data analytics and improved my ability to analyze, visualize, and present data effectively.
+This internship enhanced my practical knowledge in data analytics and strengthened my ability to analyze, visualize, and present data effectively.
 
 ---
 
 ## 📬 Connect with Me
-- LinkedIn:https://www.linkedin.com/in/pallavi-reddy-a6180a373/
+- LinkedIn: https://www.linkedin.com/in/pallavi-reddy-a6180a373/
 
 ---
 
