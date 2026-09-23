@@ -90,7 +90,7 @@ This internship enhanced my practical knowledge in data analytics and strengthen
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/pallavi-reddy-a6180a373/
+- LinkedIn: https://www.linkedin.com/in/pallavireddy-cse/
 
 ---
 
