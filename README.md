@@ -1,4 +1,4 @@
-# 📊 T. Pallavi | Data Analytics Portfolio
+# 📊 Tangala Pallavi | Data Analytics Portfolio
 
 🚀 This repository represents my complete journey through a 60-day Data Analytics Internship at ApexPlanet Software Pvt. Ltd., covering end-to-end data analysis, visualization, and storytelling using real-world datasets.
 
